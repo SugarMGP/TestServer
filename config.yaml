@@ -1,0 +1,3 @@
+port: 8080
+failure_rate: 0.3
+max_delay: 3000
